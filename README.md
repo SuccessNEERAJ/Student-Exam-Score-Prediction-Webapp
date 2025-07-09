@@ -59,44 +59,46 @@ This system helps educators and administrators make data-driven decisions to imp
 ## 📸 Screenshots
 
 ### 1. Welcome Screen
-![Welcome Screen](Screenshots/1.%20Welcome%20Screen.png)
+![Welcome Screen](Screenshots/1.%20Landing%20or%20Home%20Page.png)
 *The main landing page with system overview and getting started instructions*
 
 ### 2. Dataset Overview
-![Dataset Overview](Screenshots/2.%20Dataset%20Overview.png)
+![Dataset Overview 1](Screenshots/2.%20Dataset%20Overview%201.png)
+![Dataset Overview 2](Screenshots/3.%20Dataset%20Overview%202.png)
 *Comprehensive view of dataset statistics, sample data, and data quality metrics*
 
-### 3. Basic Statistics
-![Basic Statistics](Screenshots/3.%20Basic%20Statistics.png)
-*Detailed statistical analysis including data types and missing value information*
+### 3. Basic Visualizations
+![Basic Visualizations](Screenshots/4.%20Data%20Visualization.png)
+*Detailed Data Visualizations*
 
-### 4. Data Distribution Analysis
-![Data Distribution](Screenshots/4.%20Data%20Distribution%20Analysis.png)
-*Interactive visualizations showing distributions of key variables*
-
-### 5. Data Preprocessing
+### 4. Data Preprocessing
 ![Data Preprocessing](Screenshots/5.%20Data%20Preprocessing.png)
 *Automated data cleaning, outlier handling, and feature engineering process*
 
-### 6. Model Training & Evaluation
-![Model Training](Screenshots/6.%20Model%20Training%20&%20Evaluation.png)
+### 5. Model Training & Evaluation
+![Model Training](Screenshots/6.%20Model%20Training.png)
 *Machine learning model performance metrics and evaluation results*
 
-### 7. Model Performance Visualization
+### 6. Model Performance Visualization
 ![Model Performance](Screenshots/7.%20Model%20Performance%20Visualization.png)
 *Comprehensive visualizations of model performance and feature importance*
 
-### 8. At-Risk Student Identification
-![At-Risk Students](Screenshots/8.%20At-Risk%20Student%20Identification.png)
+### 7. At-Risk Student Identification
+![At-Risk Students](Screenshots/8.%20At%20Risk%20Students.png)
 *Identification and analysis of students who need immediate attention*
 
 ### 9. Intervention Recommendations
-![Recommendations](Screenshots/9.%20Intervention%20Recommendations.png)
+![Recommendations](Screenshots/9.%20Recommendation%20for%20Students.png)
 *Personalized intervention strategies for at-risk students*
 
 ### 10. Score Prediction Tool
-![Score Prediction](Screenshots/10.%20Score%20Prediction%20Tool.png)
+![Score Prediction](Screenshots/10.%20Single%20Student%20Score%20Prediction.png)
 *Interactive tool for predicting individual student performance*
+
+### 11. Final Summary
+![Final Summary 1](Screenshots/11.%20Final%20Summary%201.png)
+![Final Summary 2](Screenshots/12.%20Final%20Summary%202.png)
+*Comprehensive analysis summary and key takeaways*
 
 ## 🚀 Installation
 
