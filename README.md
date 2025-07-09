@@ -4,16 +4,16 @@ A comprehensive machine learning-powered web application built with Streamlit th
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset Format](#dataset-format)
-- [Technical Details](#technical-details)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](##overview)
+- [Features](##features)
+- [Screenshots](##screenshots)
+- [Installation](##installation)
+- [Usage](##usage)
+- [Dataset Format](##dataset-format)
+- [Technical Details](##technical-details)
+- [Project Structure](##project-structure)
+- [Contributing](##contributing)
+- [License](##license)
 
 ## 🌟 Overview
 
