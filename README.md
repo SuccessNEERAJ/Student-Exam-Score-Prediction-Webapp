@@ -192,7 +192,7 @@ S1002,24,Male,Engineering,99.52,41.84,63.85,67.72,12.4,9,6.1
 ### Machine Learning Model
 - **Algorithm**: Random Forest Regressor
 - **Features**: 15+ student attributes including engineered features
-- **Performance**: ~85% R² Score on test data
+- **Performance**: ~98% R² Score on test data
 - **Cross-validation**: 5-fold cross-validation for robust evaluation
 
 ### Feature Engineering
