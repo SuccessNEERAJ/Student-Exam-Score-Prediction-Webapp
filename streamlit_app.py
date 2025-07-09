@@ -5,9 +5,6 @@ Student Performance Prediction and Academic Monitoring System - Streamlit App
 
 This Streamlit application provides a comprehensive system for predicting student performance
 and identifying at-risk students using machine learning techniques.
-
-Author: Academic Analytics Team
-Date: 2024
 """
 
 import streamlit as st
@@ -1666,14 +1663,11 @@ def main():
     # Footer
     st.sidebar.markdown("---")
     st.sidebar.markdown("""
-    **📧 Contact & Support**
-
-    For questions or support, please contact the Academic Analytics Team.
 
     **🔧 Technical Details**
     - Model: Random Forest Regressor
     - Features: 15+ student attributes
-    - Accuracy: ~85% R² Score
+    - Accuracy: ~98% R² Score
     """)
 
 
